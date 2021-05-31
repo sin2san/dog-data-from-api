@@ -11,4 +11,4 @@ Lifespan <br />
 
 API Used : https://docs.thedogapi.com/api-reference/breeds/breeds-search
 
-DEMO SandBox Link : https://0bddd.csb.app/
+DEMO SandBox Link : <a href="https://0bddd.csb.app/" target="_blank>https://0bddd.csb.app/</a>
